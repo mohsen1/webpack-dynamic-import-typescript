@@ -1,0 +1,30 @@
+{
+  "name": "webpack-dynamic-import-typescript",
+  "version": "1.0.0",
+  "description": "Webpack dynamic import() with TypeScript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohsen1/webpack-dynamic-import-typescript.git"
+  },
+  "keywords": [
+    "webpack",
+    "typescript"
+  ],
+  "author": "Mohsen Azimi <me@azimi.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohsen1/webpack-dynamic-import-typescript/issues"
+  },
+  "homepage": "https://github.com/mohsen1/webpack-dynamic-import-typescript#readme",
+  "devDependencies": {
+    "@types/webpack": "^2.2.6",
+    "string-replace-loader": "^1.0.5",
+    "ts-loader": "^2.0.0",
+    "typescript": "^2.1.6",
+    "webpack": "^2.2.1"
+  }
+}
